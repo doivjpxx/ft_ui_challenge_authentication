@@ -29,6 +29,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   font_awesome_flutter: ^8.11.0
   cached_network_image: ^2.5.0
+  animator: ^2.0.2
 
 dev_dependencies:
   flutter_test:
