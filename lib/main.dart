@@ -4,6 +4,7 @@ import 'package:fl_ui_challenge_authentication/pages/auth_3.dart';
 import 'package:fl_ui_challenge_authentication/pages/auth_4.dart';
 import 'package:fl_ui_challenge_authentication/pages/auth_5.dart';
 import 'package:fl_ui_challenge_authentication/pages/auth_6.dart';
+import 'package:fl_ui_challenge_authentication/pages/auth_7.dart';
 import 'package:flutter/material.dart';
 
 import 'pages/home_page.dart';
@@ -24,7 +25,7 @@ class MyApp extends StatelessWidget {
         '/four': (context) => MyAuthentication4(),
         '/five': (context) => MyAuthentication5(),
         '/six': (context) => MyAuthentication6(),
-        // '/seven': (context) => MyAuthentication7(),
+        '/seven': (context) => MyAuthentication7(),
         // '/eight': (context) => MyAuthentication8(),
         // '/nine': (context) => MyAuthentication9(),
         // '/ten': (context) => MyAuthentication10(),
