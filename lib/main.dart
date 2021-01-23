@@ -1,6 +1,7 @@
 import 'package:fl_ui_challenge_authentication/pages/auth_1.dart';
 import 'package:fl_ui_challenge_authentication/pages/auth_10.dart';
 import 'package:fl_ui_challenge_authentication/pages/auth_11.dart';
+import 'package:fl_ui_challenge_authentication/pages/auth_12.dart';
 import 'package:fl_ui_challenge_authentication/pages/auth_2.dart';
 import 'package:fl_ui_challenge_authentication/pages/auth_3.dart';
 import 'package:fl_ui_challenge_authentication/pages/auth_4.dart';
@@ -34,6 +35,7 @@ class MyApp extends StatelessWidget {
         '/nine': (context) => MyAuthentication9(),
         '/ten': (context) => MyAuthentication10(),
         '/eleven': (context) => MyAuthentication11(),
+        '/twelve': (context) => MyAuthentication12(),
       },
     );
   }
